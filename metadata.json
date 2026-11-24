@@ -1,0 +1,6 @@
+{
+  "name": "Batalha da Lógica",
+  "description": "Jogo educativo estilo arcade para ensinar lógica de programação e pensamento computacional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
